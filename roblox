@@ -1,0 +1,3 @@
+local.A_2 = Game.Connect = Set "money".Value = true
+local game.ReplicatedStorages = FireServer.Amount = "9999999999999999"
+local game = ServerStorage .Worokspace.Parent = FireServer.Unpacked.money =("999999999999999")
